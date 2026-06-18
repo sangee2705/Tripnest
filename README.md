@@ -29,4 +29,4 @@ This project focuses on practicing UI structure, layout design, and responsive w
 - Real-world website structuring
 ## 🔗 Live Demo
 
-👉 https://your-username.github.io/tripnest/
+👉https://sangee2705.github.io/Tripnest/
